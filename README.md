@@ -90,8 +90,8 @@ This Challenge is graded based on the following criteria:
 
 * The walkthrough video must demonstrate a generated README that matches the user input and has a functioning table of contents.
 
-  Here is the video:
-  <iframe src="https://drive.google.com/file/d/1MKCpHFd1xPdH3my_Kh8QFN5SL_nC7Ee9/preview" width="640" height="480"></iframe>
+  Walkthrough Video
+  https://drive.google.com/file/d/1MKCpHFd1xPdH3my_Kh8QFN5SL_nC7Ee9/preview
 
 ### Technical Acceptance Criteria: 40%
 
