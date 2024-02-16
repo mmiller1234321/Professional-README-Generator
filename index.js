@@ -77,8 +77,8 @@ const questions = [
         message: 'What is your location',
         name: 'locations',
         choices: ['Chicago', 'New York', 'Sayner', 'Seattle'] 
-    },
-   
+    }
+]; // <--- Closing curly brace added here
 
 // Prompt the user with the questions
 inquirer.prompt(questions)
@@ -141,3 +141,4 @@ For questions or inquiries, please contact:
 .catch((error) => {
     console.error('Error occurred:', error);
 });
+
